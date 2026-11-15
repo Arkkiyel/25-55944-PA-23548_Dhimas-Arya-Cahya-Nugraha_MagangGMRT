@@ -39,31 +39,26 @@ Panjang kedua servo yang digunakan berdasarkan NIM:
  
 
 ## Hasil Test Case
- 
-Input: Servo 1 = 40°, Servo 2 = 30°
- 
-### Output Terminal (FK & IK)
- 
-![Output terminal FK dan IK](images/fk_ik_result.png)
- 
-### Visualisasi Postur
- 
-<img src="images/visualisasi.png" alt="Visualisasi postur kaki robot 2-DoF" width="500">
-## Mathematical Proof
- 
-Perhitungan manual rumus Forward Kinematics dan Inverse Kinematics:
- 
-<img src="images/pow.jpeg" alt="Perhitungan manual FK dan IK" width="600">
-## N-DoF
- 
-### Output Terminal
- 
-![Output terminal N-DoF](images/n_dof_terminal.png)
- 
-### Visualisasi Postur
- 
-<img src="images/visualisasi_n_dof.png" alt="Visualisasi postur kaki robot N-DoF" width="500">
 
+Input: Servo 1 = 40°, Servo 2 = 30°
+
+### Output Terminal (FK & IK)
+
+![Output terminal FK dan IK](images/fk_ik_result.png)
+
+### Visualisasi Postur
+
+![Visualisasi postur kaki robot 2-DoF](images/visualisasi.png)
+
+### Mathematical Proof
+
+![Perhitungan manual FK dan IK](images/pow.jpeg)
+
+### N-DoF
+
+![Output terminal N-DoF](images/n_dof_terminal.png)
+
+![Visualisasi postur kaki robot N-DoF](images/visualisasi_n_dof.png)
 
  
 ## Cara Penggunaan (How to Run)
