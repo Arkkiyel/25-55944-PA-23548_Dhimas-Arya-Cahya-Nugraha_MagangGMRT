@@ -37,8 +37,33 @@ Panjang kedua servo yang digunakan berdasarkan NIM:
 | 7 | Visualisasi postur dengan matplotlib | Nilai Tambah | [X] |
 | 8 | Inverse Kinematics | Nilai Tambah | [X] |
  
+
 ## Hasil Test Case
  
+Input: Servo 1 = 40°, Servo 2 = 30°
+ 
+### Output Terminal (FK & IK)
+ 
+![Output terminal FK dan IK](images/fk_ik_result.png)
+ 
+### Visualisasi Postur
+ 
+<img src="images/visualisasi.png" alt="Visualisasi postur kaki robot 2-DoF" width="500">
+## Mathematical Proof
+ 
+Perhitungan manual rumus Forward Kinematics dan Inverse Kinematics:
+ 
+<img src="images/pow.jpeg" alt="Perhitungan manual FK dan IK" width="600">
+## N-DoF
+ 
+### Output Terminal
+ 
+![Output terminal N-DoF](images/n_dof_terminal.png)
+ 
+### Visualisasi Postur
+ 
+<img src="images/visualisasi_n_dof.png" alt="Visualisasi postur kaki robot N-DoF" width="500">
+
 
  
 ## Cara Penggunaan (How to Run)
